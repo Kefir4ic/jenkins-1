@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testproject.AggregatorTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-11-25T10:59:57" hostname="NITRO-AN515-52" time="0.09">
+  <properties/>
+  <testcase name="testInitialState" classname="testproject.AggregatorTest" time="0.089"/>
+  <testcase name="testMultipleAdditions" classname="testproject.AggregatorTest" time="0.0"/>
+  <testcase name="testSingleAddition" classname="testproject.AggregatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
